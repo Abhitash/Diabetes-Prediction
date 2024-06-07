@@ -12,8 +12,8 @@ Methodologies Used :
   4) Model Evaluation: Employing evaluation metrics such as confusion matrix and accuracy score.
   5) Result : The best-performing model achieved an accuracy of 95.7% on the test set, surpassing alternative models under consideration. For the train data it achieved an accuracy of 97%. 
 
-Author
+Author :
 Abhitash
 
-Acknowledgments
+Acknowledgments :
 This project was undertaken in the context of the diabetes prediction task on Kaggle. Credit to Kaggle for the inspiration and provision of the dataset.
